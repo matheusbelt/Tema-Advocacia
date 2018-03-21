@@ -1,0 +1,79 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 1 de January de 2018 17:45
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.30
+WORDPRESS:	4.9.1
+PHP INFO:	5.6.31 | SAPI: apache2handler
+SERVER:		Apache/2.4.27 (Win32) OpenSSL/1.1.0f PHP/5.6.31 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 29MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:13 | filtered:0 | create:13 
+FILTERED: [] 
+SQL CREATED: 20171220_marcosinacioadvocacia_0af624efcd403d8a3852180101174456_database.sql 
+SQL FILE SIZE: 179.58KB (183892) 
+SQL FILE TIME: 2018-01-01 17:45:10 
+SQL RUNTIME: 0.69 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  C:/Program Files (x86)/Ampps/www/advocacia-marcos 
+ARCHIVE FILE: 20171220_marcosinacioadvocacia_0af624efcd403d8a3852180101174456_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	126.43MB 
+STATS:	Dirs 256 | Files 2,245 
+SQL ADDED: 20171220_marcosinacioadvocacia_0af624efcd403d8a3852180101174456_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 2501
+    [filename] => C:\Program Files (x86)\Ampps\www\advocacia-marcos\wp-snapshots\tmp\20171220_marcosinacioadvocacia_0af624efcd403d8a3852180101174456_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 94.72MB 
+ARCHIVE RUNTIME: 22.80 sec. 
+MEMORY STACK: 30MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [C:/Program Files (x86)/Ampps/www/advocacia-marcos/wp-snapshots/tmp/20171220_marcosinacioadvocacia_0af624efcd403d8a3852180101174456_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 179.58KB 
+Installer File: 443.39KB 
+Archive File: 94.72MB  
+
+********************************************************************************
+RECORD ID:[3]
+TOTAL PROCESS RUNTIME: 24.30 sec.
+PEAK PHP MEMORY USED: 32.5MB
+DONE PROCESSING => 20171220_marcosinacioadvocacia 1 de January de 2018 17:45
+ 
